@@ -5,7 +5,7 @@ description: Сопровождающий сайт к курсу "Визуали
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: true
+show_wiki_pages: fasle
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
 # (boolean) Enable/disable blog feature
