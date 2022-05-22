@@ -2,7 +2,19 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# Оставь надежду, всяк сюда входящий
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+## Курсы, материалы на которые размещены на этой странице
 
+|Название курса                                         |Кто ведет                                                                                 |Год    |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------|-------|
+|[Весенние каникулы Усть-Лабинского лицея](/ull-spring) |[Дмитрий Тетерин](https://t.me/dimoha_zadira), [Илья Савицкий](https://t.me/ilya_savitsky), [Илья Сергеевич Мокроусов](https://t.me/https://t.me/ilya_savitsky), [Максим Никонов](https://t.me/xnikon)|2022   |
+|[Язык программирования Си](/c-track)                   |[Дмитрий Тетерин](https://t.me/dimoha_zadira), [Илья Савицкий](https://t.me/ilya_savitsky)|2021/22|
+|[Визуализация алгоритмов](/visualization)              |[Илья Савицкий](https://t.me/ilya_savitsky)                                               |2021/22|
+
+## Другая информация и ссылки
+
+- [Таблица результатов весеннего семестра 2022](/credit-table)
+- [Как сдавать задания](/rules)
+- [Чат в котором все это обсуждается](https://t.me/+eev5LLcoiyMxMjAy)
+- [Дискорд-сервер для дистанционных занятий](https://discord.gg/sjU47D3reh)
